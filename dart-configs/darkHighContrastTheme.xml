@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="3" name="Dark High Contrast" author="ninachen">
+    <abstractMethod color="#8B6914" />
+    <annotation color="#646464" />
+    <background color="#111111" />
+    <bracket color="#BFBFBF" />
+    <builtin color="#A52A2A" /> <!-- static/get/set keywords -->
+    <class color="#BFBFBF" />
+    <commentTaskTag color="#00C8E5" bold="true" />
+    <constant color="#8956FB" />
+    <constructor color="#FF9800" />
+    <currentLine color="#333333" />
+    <deletionIndication color="#FF0000" />
+    <deprecatedMember color="#6F6F6F" />
+    <directive color="#A52A2A" bold="true" />
+    <dynamicType color="#A64D79" />
+    <enum color="#8956FB" />
+    <field color="#1E90FF" italic="false" />
+    <filteredSearchResultIndication color="#00FF00" />
+    <findScope color="#FF0000" />
+    <foreground color="#BFBFBF" />
+    <function color="#FF9800" />
+    <functionTypeAlias color="#FF9800" />
+    <getter color="#2247C8" />
+    <importPrefix color="#BFBFBF" />
+    <inheritedMethod color="#8B6914" />
+    <interface color="#BFBFBF" />
+    <javadoc color="#6F6F6F" />
+    <javadocKeyword color="#5959AB" />
+    <javadocLink color="#5959AB" />
+    <javadocTag color="#45818E" />
+    <keyword color="#A52A2A" />
+    <keywordReturn color="#A52A2A" />
+    <lineNumber color="#6F6F6F" />
+    <localVariable color="#BFBFBF" />
+    <localVariableDeclaration color="#BFBFBF" />
+    <method color="#FF9800" />
+    <methodDeclaration color="#FF9800" />
+    <multiLineComment color="#6F6F6F" />
+    <multiLineString color="#00A900" />
+    <number color="#A64D79" />
+    <occurrenceIndication color="#333333" />
+    <operator color="#F4D400" />
+    <parameterVariable color="#19BAA1" />
+    <searchResultIndication color="#444466" />
+    <selectionBackground color="#4B6983" />
+    <selectionForeground color="#FFFFFF" />
+    <setter color="#2247C8" />
+    <singleLineComment color="#6F6F6F" />
+    <sourceHoverBackground color="#FFFFFF" />
+    <staticField color="#1E90FF" />
+    <staticFinalField color="#1E90FF" />
+    <staticMethod color="#FF9800" />
+    <staticMethodDeclaration color="#FF9800" />
+    <string color="#00A900" />
+    <typeArgument color="#BFBFBF" />
+    <typeParameter color="#BFBFBF" />
+    <writeOccurrenceIndication color="#FF0000" />
+</colorTheme>
